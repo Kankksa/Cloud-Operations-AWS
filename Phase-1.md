@@ -105,3 +105,6 @@ Then before you are able to use the key, you have to modify it's owner rights wi
 
 And then the ssh connection from Bastion Host to Web Server works.
 
+<img width="550" height="195" alt="image" src="https://github.com/user-attachments/assets/f31514fc-5875-4f6f-b2b4-6a62def340e1" />
+
+
