@@ -1,5 +1,5 @@
 # Starting point
-This is my phase 1 report for my AWS Project.
+This is my report for my AWS Project.
 ## Plan
 I have a plan to create EC2 instance to host a website and a Bastion Host to securely connect to it from my PC.
 
