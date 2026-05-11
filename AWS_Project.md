@@ -157,4 +157,10 @@ Next I'm going to configure CloudWatch alarm to notify me when the CPU utilizati
 <img width="520" height="176" alt="image" src="https://github.com/user-attachments/assets/2648537a-c06d-483f-a814-acfa86c9ff8d" />
 
 
+# Testing the alarm
+
+I install stress tool on the web server, with `sudo yum install -y stress` and run it with `stress --cpu 4 --timeout 300` after waiting for a while the alert activates and sends me an email about it.  <img width="1502" height="295" alt="image" src="https://github.com/user-attachments/assets/4f132c41-fd73-4bff-8eaf-afc2042a977c" />
+
+
+
 
